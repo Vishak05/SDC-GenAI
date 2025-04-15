@@ -11,8 +11,10 @@ The repository is organized into several Jupyter notebooks, each focusing on spe
 - `LogisticRegression.ipynb`
 - `K_NearestNeighbours.ipynb`
 - `KMeans.ipynb`
+- `RandomForest.ipynb`
 - `ANN.ipynb`
 - `CNN.ipynb`
+- `RNN.ipynb`
 - `LSTM.ipynb`
 
 ### 🏠 House Price Prediction
@@ -23,6 +25,7 @@ The repository is organized into several Jupyter notebooks, each focusing on spe
 
 ### 🧠 Generative AI & LangChain Applications
 - `GAN.ipynb`
+- `Summarizer.ipynb`
 - `Langchain_1LLM_and_Other.ipynb`
 - `Langchain_2LLMs.ipynb`
 - `Langchain_Chatbot.ipynb`
